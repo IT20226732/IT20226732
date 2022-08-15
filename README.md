@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it20226732&label=Profile%20views&color=0e75b6&style=flat" alt="it20226732" /> </p>
 
-- 🔭 I’m currently working on **Devy**
+- 🔭 I’m a *Fullstack Developer*
 
 - 🌱 I’m currently learning **Js | nestjs**
 
