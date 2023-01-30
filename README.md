@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate fullstack developer from Srilanka</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=it20226732&label=Profile%20views&color=0e75b6&style=flat" alt="it20226732" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=it20226732&label=Profile%20views&color=0e75b6&style=flat" alt="it20226732" /> 1000</p>
 
 - 🔭 I’m a *Fullstack Developer*
 
